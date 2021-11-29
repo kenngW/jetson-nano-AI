@@ -1,5 +1,5 @@
 # jetson nano AI
-  jetson nano object detection
+  This project utilizes object detection for the jetson nano to detect several common electronics. It uses dusty's jetson inference docker container and the scripts provided to collect data and train the model.
 
 # Download python3-numpy
  $ cd<br/>
